@@ -10,13 +10,13 @@
     ├── samples                     # Sample skeleton files
     │   
     ├── weights                     
-    │      ├── Trained_Weights.h5   # Weight file
+    │      └── Trained_Weights.h5   # Weight file
     ├── ActionModel.py              # Defined models
     │   
     ├── testCode.py                 # Test code that consists of reading samples, loading models with trained weights and testing 
     ├── LICENSE.md
     ├── LICENSE_ko.md
-    └── README.md
+    └──README.md
 
 
 ## LICENSE
