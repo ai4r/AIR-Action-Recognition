@@ -85,4 +85,4 @@ This software is a part of AIR, and follows the [AIR License and Service Agreeme
 
 
 ## Citation
-Jang, J., Kim, J., Lee, J., & Yang, S. (2018). Neural Networks with Activation Networks. arXiv preprint arXiv:1811.08618.
+Jang, J., Kim, D., Park, C., Jang, M., Lee, J., & Kim, J. (2020). ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly. arXiv preprint arXiv:2003.01920.
