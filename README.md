@@ -36,7 +36,9 @@ and unzip at the root folder.
 3.  install the requirements:
 
 pip install keras==2.2.4
+
 pip install tensorflow-gpu==1.12.0
+
 pip install libpython or conda install libpython
 
 (maybe random, math, numpy and os modules are included in libpython)
