@@ -19,11 +19,7 @@
     ├── LICENSE_ko.md
     └──README.md
 
-## How to Use
-
-
-
-<Installation>
+## Installation
 
 
 1. clone this git
@@ -51,7 +47,7 @@ pip install libpython or conda install libpython
 
 
 
-<Training>
+## Training
 
 run
 
@@ -68,7 +64,7 @@ You can get "Weight_save_temp.h5" as weights of the latest epoch, and
 
 
 
-<Test>
+## Test
 
 run
 
