@@ -1,6 +1,6 @@
 # AIR Action Recognition
 
-Action Recognition Modeule using 2D skeleton extracted fromm ETRI-Activity3D dataset.
+Action Recognition Modeule(FSA-CNN) using 2D skeleton extracted fromm ETRI-Activity3D dataset.
 
 The accuracy is 91.00% for Testset.
 
