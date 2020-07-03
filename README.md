@@ -7,12 +7,7 @@
 
 ## Source files
     .
-    ├── samples                     # Sample skeleton files
-    │   
-    ├── weights                     
-    │      └── Trained_Weights.h5   # Weight file
-    ├── ActionModel.py              # Defined models
-    │   
+    ├── TestBed_OpenPose_v4_COCO_6_9100.h5    # Weight file                  
     ├── Test_Code.py                 # Test code that consists of reading samples, loading models with trained weights and testing 
     ├── Training_Code.py             # Training code using ETRI-Activity3D Dataset
     ├── LICENSE.md
