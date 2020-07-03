@@ -55,7 +55,7 @@ run
 
 If you want to set pre-trained weights as initialization, 
 
-uncomment the line 211("network.load_weights(weight_path)").
+Unlock the comment of line 211("network.load_weights(weight_path)").
 
 
 You can get "Weight_save_temp.h5" as weights of the latest epoch, and
@@ -72,7 +72,7 @@ run
 
 If you want to initialize using your own weights, 
 
-change the line 31("weight_path = 'TestBed_OpenPose_v4_COCO_6_9100.h5' ")
+change line 31("weight_path = 'TestBed_OpenPose_v4_COCO_6_9100.h5' ")
 
 to your weight file.
 
